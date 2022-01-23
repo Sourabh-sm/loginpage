@@ -1,0 +1,35 @@
+/* Element Selector*/
+/* *h1
+{
+    color: cadetblue;
+} */
+
+/*Group Selector*/
+
+/* * h1,p
+{
+    color: crimson;
+} */
+
+/* Class Selector */
+ /* p.clr 
+{
+color: darkred;
+font-size:10px;
+}
+
+/*Generic class Selector*/
+
+/*.clr
+{
+    color:darkviolet;
+    font-size: 100px;
+    font-family: algerian;
+}
+
+/*ID selector*/
+#dinga
+{
+    color: green;
+}
+

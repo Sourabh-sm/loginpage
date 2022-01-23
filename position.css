@@ -1,0 +1,25 @@
+.parent
+{
+    background-color: red;
+    width:400px;
+    /* position: absolute;
+    left:100px;
+    right:20px; */
+}
+
+.child{
+    height:100x;
+    width:100px;
+    background-color: green;
+    color:white;
+    /* position: relative; */
+    left:50px;
+    right:40px;
+}
+
+.navbar
+{
+    background-color: orange;
+    padding:20px;
+    position: sticky;
+}

@@ -1,0 +1,40 @@
+/* div
+{
+    background-color: blueviolet;
+    display: inline;
+} */
+
+
+/*
+    background-color: cadetblue;
+} */
+/* 
+
+/* 
+{
+    background-color: green;
+    height: 100px;
+    width:100px;
+    display: inline-block;
+}  */
+
+
+.parent
+{
+    background-color: green;
+    border: 5px solid purple;
+    display: flex;
+    /*flex direction row*/
+
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+
+.parent p
+{
+    background-color: red;
+    height:100px;
+    width:100px;
+    margin:10px;
+}
